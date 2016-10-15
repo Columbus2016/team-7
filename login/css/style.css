@@ -40,6 +40,14 @@ input {
   transition: background-color .3s;
 }
 
+.image{
+  float: top;
+
+padding-left: 0px;
+padding-top: 0px;
+
+}
+
 .site__container {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
@@ -99,7 +107,7 @@ input {
           flex: 1;
 }
 
-.align {
+#align {
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
